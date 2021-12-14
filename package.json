@@ -1,0 +1,9 @@
+{
+  "name": "viteflare-starter",
+  "version": "1.0.0",
+  "main": "src/worker.ts",
+  "devDependencies": {
+    "vite": "^2.7.2",
+    "viteflare": "^0.0.4"
+  }
+}
