@@ -5,7 +5,7 @@
   "devDependencies": {
     "typescript": "^4.5.4",
     "vite": "^2.7.2",
-    "viteflare": "^0.1.2"
+    "viteflare": "^0.2.0"
   },
   "prettier": {
     "semi": false,
